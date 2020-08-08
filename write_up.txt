@@ -1,0 +1,13 @@
+We used a method to find the optimal ratio for every price.
+The optimal ratio calculates the revenue cost difference per hit.
+
+ Thus decides which value decreases revenue per hit. 
+
+For every element and i in that row - 
+
+(Revnue[i] - Revnue[i-1])/hit[i]
+
+
+Team 
+Omanshu Mahawar (181CO237)
+Shrvan Warke (181CO151)
